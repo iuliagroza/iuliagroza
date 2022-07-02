@@ -1,2 +1,9 @@
-### Hungriest snake ever 
-![snake gif](https://github.com/iuliagroza/iuliagroza/blob/output/github-contribution-grid-snake.svg)
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Heya!;I'm+Iulia;&center=true&size=30">
+  </a>
+</h1>
+<div align="center">
+  <h2>Hungriest snake ever</h2> 
+  <img src="https://github.com/iuliagroza/iuliagroza/blob/output/github-contribution-grid-snake.svg"/>
+</div>
