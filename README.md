@@ -14,7 +14,7 @@
 </div>
 <div align="center">
   <h2>Stats</h2>
-  <img src="https://github.com/MishManners/MishManners/blob/master/ezgif-4-5370f601a9b3.gif" width="700">
+  <img src="https://github.com/iuliagroza/iuliagroza/blob/main/iuliagroza-2021.gif" width="700">
   <img src="https://github-readme-stats.vercel.app/api?username=iuliagroza&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for iuliagroza" width="700">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=iuliagroza&theme=jolly" width="700">
 </div>
