@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=KushalTanna24.KushalTanna24">
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=KushalTanna24.KushalTanna24">
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Heya!;I'm+Iulia;&center=true&size=30">
