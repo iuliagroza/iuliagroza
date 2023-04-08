@@ -13,7 +13,7 @@
   <a href="https://medium.com/@iuliagroza" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a> 
   <p> <br>I am a Computer Science & Software Dev enthusiast, ML Engineering career aspirant and digital junkie always eager to learn and share my facts.</p>
   <p> Having a strong foundation in Data Structures & Algorithms, I started my path to becoming a social developer and competitive programmer a few years ago, when I wrote my first lines of code in C++. I gathered all my information about DSA in <a href="https://twitter.com/gg_iulia/status/1300844578644389894" target="_blank">posts</a> on twitter, <a href="https://github.com/iuliagroza/Algorithms" target="_blank">repositories</a> on GitHub and <a href="https://dev.to/iuliagroza/complete-introduction-to-the-30-most-essential-data-structures-algorithms-43kd" target="_blank">articles</a> on dev.to that gained 100k+ views.</p> 
-  <p>In 2022 I have been a STEP Intern at <a href="https://careers.google.com/stories/5-surprises-about-google-zurich/?hl=en_US">Google in Zurich, Switzerland</a>. I am currently a CS student at BBU and an Infrastructure Volunteer at <a href="https://github.com/codettero">Codette</a>.</div>
+  <p>In 2022 I have been a STEP Intern at <a href="https://careers.google.com/stories/5-surprises-about-google-zurich/?hl=en_US" target="_blank">Google in Zurich, Switzerland</a>. I am currently a CS student at <a href="http://www.cs.ubbcluj.ro/en/" target="_blank">BBU</a> and an Infrastructure Volunteer at <a href="https://github.com/codettero" target="_blank">Codette</a>.</div>
   </p>
 <div align="center">
   <h2>Stats</h2>
