@@ -24,5 +24,8 @@
 <div align="center">
   <h4>*DISCLAIMER*</h4>
   <h2>Hungriest snake ever</h2> 
-  <img src="https://github.com/iuliagroza/iuliagroza/blob/output/github-contribution-grid-snake.svg"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+    <img alt="github-snake" src="github-snake-dark.svg" />
+  </picture>
 </div>
