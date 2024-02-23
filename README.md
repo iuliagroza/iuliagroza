@@ -18,7 +18,7 @@
 <div align="center">
   <h2>Stats</h2>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=iuliagroza&show_icons=true&theme=dracula" alt="GitHub Stats for iuliagroza" width="700">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=iuliagroza&layout=compact&theme=dracula&langs_count=10" alt="Programming Languages Stats for iuliagroza" width="700">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuliagroza&layout=donut&theme=dracula&size_weight=0.5&count_weight=0.5" alt="Programming Languages Stats for iuliagroza" width="700">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=iuliagroza&theme=dracula" alt="Contribution Stats for iuliagroza" width="700">
 </div>
 <div align="center">
